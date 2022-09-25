@@ -1,0 +1,4 @@
+-- INSERT INTO AppUser VALUES(NULL, 'Natty', '123ABC', 1);
+-- INSERT INTO AppUser VALUES(NULL, 'Mike', '1234', 1);
+-- INSERT INTO roles VALUES(NULL, 'ADMIN');
+-- INSERT INTO roles VALUES(NULL, 'USER');
